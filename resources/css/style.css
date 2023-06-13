@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+.heading{
+    color:white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+}
+#personal{
+    font-size: 30px
+}
+#places{
+    font-size: medium;
+}
+
+.footer{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+.link{
+    color: aquamarine;
+    font-size: 16px;
+
+}
+.video{
+    display: flex;
+justify-content: center;}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+
+#phone{
+    height: 80px;
+
+}
